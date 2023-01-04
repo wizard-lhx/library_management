@@ -1,0 +1,17 @@
+E:\Project\LibraryManagementSystem\BLL\bin\Release\net6.0\BLL.deps.json
+E:\Project\LibraryManagementSystem\BLL\bin\Release\net6.0\BLL.dll
+E:\Project\LibraryManagementSystem\BLL\bin\Release\net6.0\BLL.pdb
+E:\Project\LibraryManagementSystem\BLL\bin\Release\net6.0\DAL.dll
+E:\Project\LibraryManagementSystem\BLL\bin\Release\net6.0\Model.dll
+E:\Project\LibraryManagementSystem\BLL\bin\Release\net6.0\DAL.pdb
+E:\Project\LibraryManagementSystem\BLL\bin\Release\net6.0\Model.pdb
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\BLL.csproj.AssemblyReference.cache
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\BLL.AssemblyInfoInputs.cache
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\BLL.AssemblyInfo.cs
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\BLL.csproj.CopyComplete
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\BLL.dll
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\refint\BLL.dll
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\BLL.pdb
+E:\Project\LibraryManagementSystem\BLL\obj\Release\net6.0\ref\BLL.dll

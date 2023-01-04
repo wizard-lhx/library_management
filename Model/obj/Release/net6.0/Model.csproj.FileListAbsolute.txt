@@ -1,0 +1,12 @@
+E:\Project\LibraryManagementSystem\Model\bin\Release\net6.0\Model.deps.json
+E:\Project\LibraryManagementSystem\Model\bin\Release\net6.0\Model.dll
+E:\Project\LibraryManagementSystem\Model\bin\Release\net6.0\Model.pdb
+E:\Project\LibraryManagementSystem\Model\obj\Release\net6.0\Model.csproj.AssemblyReference.cache
+E:\Project\LibraryManagementSystem\Model\obj\Release\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\LibraryManagementSystem\Model\obj\Release\net6.0\Model.AssemblyInfoInputs.cache
+E:\Project\LibraryManagementSystem\Model\obj\Release\net6.0\Model.AssemblyInfo.cs
+E:\Project\LibraryManagementSystem\Model\obj\Release\net6.0\Model.csproj.CoreCompileInputs.cache
+E:\Project\LibraryManagementSystem\Model\obj\Release\net6.0\Model.dll
+E:\Project\LibraryManagementSystem\Model\obj\Release\net6.0\refint\Model.dll
+E:\Project\LibraryManagementSystem\Model\obj\Release\net6.0\Model.pdb
+E:\Project\LibraryManagementSystem\Model\obj\Release\net6.0\ref\Model.dll
